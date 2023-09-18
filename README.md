@@ -65,4 +65,8 @@
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages.
 
+![Screenshot 2023-09-19 003025](https://github.com/divyanshrajpoot9/AmazonLandingPage/assets/114856467/31b87553-7a1f-4f47-80d4-1180f85d1a69)
+![Screenshot 2023-09-19 003043](https://github.com/divyanshrajpoot9/AmazonLandingPage/assets/114856467/eaebd17b-ba46-49ec-8a98-e93dd208ca39)
+![Screenshot 2023-09-19 003055](https://github.com/divyanshrajpoot9/AmazonLandingPage/assets/114856467/9cd2ca81-ffd9-4a17-90f4-51d88fd2e67f)
+![Screenshot 2023-09-19 003112](https://github.com/divyanshrajpoot9/AmazonLandingPage/assets/114856467/7ece767c-1a2a-45f2-9a37-1a0016017a34)
 
